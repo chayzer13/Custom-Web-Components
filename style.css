@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0d0d0d;
+    margin: 0;
+    padding: 20px;
+    color: white;
+}
+
+card-component {
+    display: block;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border-radius: 10px;
+    width: 600px;
+}
